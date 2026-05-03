@@ -3,7 +3,7 @@
   <p>Desarrollador Full Stack | Web, Tiendas y Bots | Configuración de Servidores de Videojuegos</p>
 
   [![Portafolio](https://img.shields.io/badge/Portafolio-dazorn.es-05122A?style=for-the-badge)](https://dazorn.es)
-  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/TU_ID_DE_DISCORD)
+  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/897846910289866842)
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/dazorn)
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Danielzp24)
 </div>
