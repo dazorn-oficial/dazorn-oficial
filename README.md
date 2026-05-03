@@ -60,5 +60,5 @@ Si alguno de mis proyectos Open Source te ha sido de utilidad, o simplemente qui
 ---
 <div align="center">
   <i>"Si se puede pensar, se puede construir."</i><br>
-  <b>Code by Dazorn</b>
+  <b>Developed by Dazorn</b>
 </div>
