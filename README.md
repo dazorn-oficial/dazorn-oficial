@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 ¡Hola! Soy Dazorn (Daniel)</h1>
+  <h1>👋 ¡Hola! Soy Daniel Zafra, mejor conocido como Dazorn</h1>
   <p>Desarrollador Full Stack | Web, Tiendas y Bots | Configuración de Servidores de Videojuegos</p>
 
   [![Portafolio](https://img.shields.io/badge/Portafolio-dazorn.es-05122A?style=for-the-badge)](https://dazorn.es)
